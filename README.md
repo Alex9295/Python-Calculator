@@ -1,8 +1,8 @@
-Overview
+## Overview
 This is a simple command-line calculator program written in Python that performs basic arithmetic operations. The program allows users to choose between addition and subtraction, 
 or exit the calculator.
 
-Features
+## Features
 Addition of two numbers
 
 Subtraction of two numbers
@@ -13,7 +13,7 @@ Clear operation selection menu
 
 Proper input validation (expects integers)
 
-How to Use
+## How to Use
 Run the program in a Python environment (Python 3.x recommended)
 
 You'll see a welcome message with operation options:
@@ -45,7 +45,7 @@ subtraction(a, b): Performs subtraction of two numbers
 Requirements
 Python 3.x
 
-Running the Program
+## Running the Program
 Simply execute the Python script in your terminal or IDE:
 
 bash
