@@ -31,7 +31,7 @@ It will then display the result
 
 The program will continue running until you choose option 3 to exit
 
-Functions
+## Functions
 calculatorDisplay(): Displays the welcome message and operation options
 
 calculatorFunction(user_choice): Handles the operation based on user input
@@ -45,7 +45,7 @@ subtraction(a, b): Performs subtraction of two numbers
 Requirements
 Python 3.x
 
-## Running the Program
+## 🎮 How to Play:
 Simply execute the Python script in your terminal or IDE:
 
 bash
