@@ -2,6 +2,10 @@
 This is a simple command-line calculator program written in Python that performs basic arithmetic operations. The program allows users to choose between addition and subtraction, 
 or exit the calculator.
 
+Python Calculator Demo: ![image](https://github.com/user-attachments/assets/fd0bd8b2-a689-45cf-99eb-39819716a713)
+![image](https://github.com/user-attachments/assets/856ab153-4731-4dbf-966d-7850ea506072)
+
+
 ## Features
 Addition of two numbers
 
